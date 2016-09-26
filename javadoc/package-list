@@ -1,0 +1,6 @@
+it.biblio.controller
+it.biblio.data.impl.pgsql
+it.biblio.data.model
+it.biblio.framework.data
+it.biblio.framework.result
+it.biblio.framework.utility
